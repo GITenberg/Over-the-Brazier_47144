@@ -1,4 +1,8 @@
 _repo: Over-the-Brazier_47144
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47144-h/images/cover.jpg
 creator:
   author:
     agent_name: Graves, Robert
@@ -12,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Robert_Graves
 description: pt. 1. Poems mostly written at Charterhouse, 1910-1914 -- pt. 2. Poems
   written before La Bassée, 1915.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47144#Over-the-Brazier
 gutenberg_issued: '2014-10-18'
 gutenberg_type: Text
 identifiers:
